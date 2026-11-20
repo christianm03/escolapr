@@ -24,8 +24,8 @@ header {
 }
 
 .cabecalho_imagem {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     object-fit: contain;
     display: block;
 }
@@ -540,8 +540,3 @@ kbd {
   color: var(--dim);
 }
 
-header .cabecalho_imagem {
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-}
