@@ -540,3 +540,8 @@ kbd {
   color: var(--dim);
 }
 
+header .cabecalho_imagem {
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+}
