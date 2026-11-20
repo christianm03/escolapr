@@ -23,7 +23,7 @@ header {
     justify-content: center;
 }
 
-.cabecalho-imagem {
+.cabecalho_imagem {
     width: 200px;
     height: auto;
     display: flex;
