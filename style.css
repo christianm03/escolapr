@@ -24,7 +24,7 @@ header {
 }
 
 .cabecalho_imagem {
-    width: 200px;
+    width: 150px;
     height: auto;
     display: flex;
     justify-content: flex-start;
