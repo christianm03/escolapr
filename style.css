@@ -24,11 +24,10 @@ header {
 }
 
 .cabecalho_imagem {
-    width: 150px;
-    height: auto;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    display: block;
 }
 
 .titulo_site {
@@ -41,6 +40,8 @@ header {
 .sociais {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
     width: 25%;
     padding-right: 30px;
 }
